@@ -1,3 +1,3 @@
 # 🎨 Color Picker
 
-Follow the instructions in the workshop to finish the assignment!
+https://cosmic-jelly-417c3f.netlify.app
